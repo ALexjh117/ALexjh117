@@ -1,6 +1,6 @@
 ## 👋 ¡Hola, soy Alex!
 
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 
 > **Full Stack Developer y apasionado por la tecnología** | Participante de **Senasoft Desarrollo Integral 2025** 🚀
 
@@ -94,7 +94,7 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 
 ## 🏆 Logros
 
-- 🎓 **Senasoft Desarrollo Integral 2025** - Participante destacado
+- 🎓 **Senasoft Desarrollo Integral 2025** 
 - 💼 Desarrollo de proyectos Full Stack escalables
 - 🤝 Contribuciones activas en proyectos open source
 - 📚 Compartiendo conocimiento a través de código
