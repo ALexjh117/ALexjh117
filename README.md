@@ -135,7 +135,7 @@ Plataforma web que ayuda a estudiantes y profesores usando inteligencia artifici
 ¿Quieres colaborar o conectarte? ¡Me encantaría escuchar de ti!
 
 <p align="center">
-  <a href="mailto:alex.developer@example.com">
+  <a href="mailto:alexchaguendo01@gmail.com">
     <img src="https://img.shields.io/badge/Email-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/alex-fullstack/">
