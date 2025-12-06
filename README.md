@@ -22,7 +22,7 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 <a href="https://www.linkedin.com/in/alex-fullstack/" target="_blank">
   <img src="https://img.shields.io/badge/-Alex-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:alex.developer@example.com" target="_blank">
+<a href="mailto:alexchaguendo01@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-alex.dev%40example.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://github.com/tu-usuario" target="_blank">
