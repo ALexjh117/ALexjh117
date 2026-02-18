@@ -71,24 +71,10 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=10B981" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0D1117&ring=4F46E5&fire=10B981&currStreakLabel=10B981" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5" />
-</p>
 
 ---
 
-## 🔥 Contribuciones
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=10B981&line=4F46E5&point=10B981&area=true&area_color=4F46E5" alt="Activity Graph">
-</p>
+>
 
 ---
 
@@ -129,6 +115,37 @@ Plataforma web que ayuda a estudiantes y profesores usando inteligencia artifici
 - 🚀 **Innovación** con soluciones prácticas
 
 ---
+🗳️ SIGEVA – Sistema de Gestión de Votaciones Electrónicas
+
+Stack: React, Node.js, TypeScript, PostgreSQL, JWT
+
+Aplicación web diseñada para la gestión y ejecución de procesos de votación electrónica en entornos institucionales y académicos. SIGEVA permite administrar elecciones de manera segura, transparente y eficiente, optimizando el registro de votantes, la emisión de votos y la consolidación de resultados.
+
+Características:
+
+🔐 Autenticación segura con control de roles (administrador y votante)
+
+🗳️ Emisión de voto único por usuario con validación automática
+
+📊 Visualización de resultados en tiempo real
+
+🛠️ Panel de administración para creación y gestión de elecciones
+
+📁 Registro y almacenamiento estructurado de datos electorales
+
+📈 Reportes consolidados de participación y resultados
+
+📈 Mis Principios
+
+Calidad y precisión en el manejo de datos
+
+Seguridad como prioridad en aplicaciones críticas
+
+Desarrollo orientado a escalabilidad
+
+Mejora continua y optimización de procesos
+
+Soluciones tecnológicas con impacto institucional
 
 ## 📬 Contacto
 
