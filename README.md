@@ -11,7 +11,7 @@ Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo co
 ### 🌟 Actualidad
 
 - 🎓 Participante activo en **Senasoft Desarrollo Integral 2025**
-- 💼 Trabajando en proyectos Full Stack innovadores
+- 💼 Trabajando en proyectos Full Stack 
 - 🚀 Especializándome en React, Node.js y tecnologías modernas
 - 🎯 Construyendo soluciones escalables con TypeScript
 
