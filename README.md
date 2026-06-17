@@ -2,7 +2,7 @@
 
 
 
-> **Full Stack Developer y apasionado por la tecnología** | Participante de **Senasoft Desarrollo Integral 2025** 🚀
+> **Developer y apasionado por la tecnología** | Participante de **Senasoft Desarrollo Integral 2025** 🚀
 
 Me especializo en el desarrollo de aplicaciones web y móviles, combinando creatividad y eficiencia para crear soluciones innovadoras que generen un impacto real. Disfruto enfrentando desafíos complejos y aplicando nuevas tecnologías y frameworks para optimizar procesos y mejorar la experiencia del usuario.
 
