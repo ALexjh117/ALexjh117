@@ -1,165 +1,225 @@
-## 👋 ¡Hola, soy Alex!
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alex%20Chaguendo&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Popay%C3%A1n%2C%20Cauca%20%7C%20Senasoft%202025&descAlignY=54&descSize=16" alt="banner" width="100%" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7C9CFF&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Alex+%F0%9F%91%8B;No+optimizo...+perfecciono;C%C3%A1tedra+de+Familia+en+producci%C3%B3n;Alcald%C3%ADa+de+Popay%C3%A1n+%C2%B7+SENA;C%C3%B3digo+contra+el+reclutamiento+armado" alt="Typing animation" />
+  </a>
 
-> **Developer y apasionado por la tecnología** | Participante de **Senasoft Desarrollo Integral 2025** 🚀
+  <br />
 
-Me especializo en el desarrollo de aplicaciones web y móviles, combinando creatividad y eficiencia para crear soluciones innovadoras que generen un impacto real. Disfruto enfrentando desafíos complejos y aplicando nuevas tecnologías y frameworks para optimizar procesos y mejorar la experiencia del usuario.
+  <a href="https://www.linkedin.com/in/alex-fullstack/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alex-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alexchaguendo01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-alexchaguendo01-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ALexjh117">
+    <img src="https://img.shields.io/badge/GitHub-ALexjh117-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ALexjh117&label=Profile%20views&color=7C9CFF&style=for-the-badge" alt="Profile views" />
 
-Mi enfoque está en construir proyectos escalables y sostenibles, aprendiendo constantemente y perfeccionando mis habilidades. Busco aportar valor a través de soluciones tecnológicas que integren innovación, calidad y funcionalidad.
-
-### 🌟 Actualidad
-
-- 🎓 Participante activo en **Senasoft Desarrollo Integral 2025**
-- 💼 Trabajando en proyectos Full Stack 
-- 🚀 Especializándome en React, Node.js y tecnologías modernas
-- 🎯 Construyendo soluciones escalables con TypeScript
-
----
-
-## 🔗 Enlaces
-
-<a href="https://www.linkedin.com/in/alex-fullstack/" target="_blank">
-  <img src="https://img.shields.io/badge/-Alex-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:alexchaguendo01@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-alex.dev%40example.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white" alt="Portfolio">
-</a>
+</div>
 
 ---
 
-## 🛠️ Tecnologías
+## Sobre mí
 
-### 💻 Lenguajes
+**Developer full stack** de Popayán. Me gusta el código que no se queda en el tutorial: productos que alguien abre, usa y confía.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Hoy estoy en **Senasoft Desarrollo Integral 2025**, construyendo software institucional con React, Node.js, TypeScript y PostgreSQL. Mi frase de perfil no es pose: *no optimizo… perfecciono*.
 
-### 🎨 Frameworks & Librerías
+- 🏛️ **Cátedra de Familia** — en producción en servidores de la **Alcaldía de Popayán** ([escuelapadres.popayan.gov.co](https://escuelapadres.popayan.gov.co)): escuela–familia para prevenir deserción y **reclutamiento armado** en el Occidente de la ciudad
+- 🎓 **Senasoft 2025** — desarrollo integral, equipo y entrega bajo presión
+- 🗳️ **SIGEVA** — votación electrónica con roles, urna y resultados
+- 🤖 **MentorIA** — plataforma educativa con IA (React, Node, Supabase, AWS)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### 🗄️ Bases de Datos
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🔧 Herramientas & Plataformas
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+> *“La tecnología es mejor cuando une a las personas.”*  
+> Yo le agrego otra: **si el dato importa, la seguridad no es un extra.**
 
 ---
 
+## Ahora mismo
+
+```js
+const alex = {
+  ubicacion: "Popayán, Cauca",
+  rol: "Full Stack Developer",
+  enfoque: ["React", "Node.js", "TypeScript", "PostgreSQL"],
+  construyendo: ["Cátedra de Familia (Alcaldía)", "SIGEVA", "MentorIA"],
+  buscando: "colaborar, competir y dejar código que se pueda mantener",
+};
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="coding animation" />
 
 ---
 
->
+## Lo que me mueve
+
+| | |
+| :--- | :--- |
+| **Calidad > cantidad** | Prefiero un flujo bien cerrado a diez pantallas a medias. |
+| **Seguridad primero** | Auth, roles y votos únicos no se improvisan el último día. |
+| **Iterar en equipo** | El PR revisado gana al héroe solitario. |
+| **Impacto institucional** | Software en la Alcaldía, en el aula y en la urna. |
+| **Aprender en movimiento** | Senasoft, proyectos reales, stack moderno. |
 
 ---
 
-## 🏆 Logros
+## Stack
 
-- 🎓 **Senasoft Desarrollo Integral 2025** 
-- 💼 Desarrollo de proyectos Full Stack escalables
-- 🤝 Contribuciones activas en proyectos open source
-- 📚 Compartiendo conocimiento a través de código
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,postgres,mysql,mongodb,supabase,aws,docker,git,github,postman,py,java,cpp&theme=dark&perline=10" alt="Tech stack" />
+</p>
 
----
-
-## 💼 Proyectos Destacados
-
-### 🚀 MentorIA - Plataforma Educativa con IA
-
-**Stack:** React, Node.js, TypeScript, Supabase, AWS Bedrock
-
-Plataforma web que ayuda a estudiantes y profesores usando inteligencia artificial para crear actividades personalizadas y mejorar el aprendizaje.
-
-**Características:**
-
-- 🤖 Chat con asistente de IA personalizado
-- 📊 Métricas de progreso en tiempo real
-- 🎯 Actividades adaptadas a estilos de aprendizaje
-- 📈 Dashboard de administración completo
-
-### [Ver más proyectos →](https://github.com/tu-usuario?tab=repositories)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-## 📈 Mis Principios
+## Proyectos que me representan
 
-- ✅ **Calidad** sobre cantidad
-- 🔄 **Iteración** constante y mejora continua
-- 🤝 **Colaboración** y trabajo en equipo
-- 📚 **Aprendizaje** continuo y actualización
-- 🚀 **Innovación** con soluciones prácticas
+### 👨‍👩‍👶 Cátedra de Familia — en producción
+
+<p>
+  <a href="https://escuelapadres.popayan.gov.co">
+    <img src="https://img.shields.io/badge/En_producción-Alcaldía_de_Popayán-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="En producción" />
+  </a>
+  <img src="https://img.shields.io/badge/SENA-Fábrica_de_Software_2026-FF6B00?style=for-the-badge" alt="SENA" />
+  <img src="https://img.shields.io/badge/Prevención-Reclutamiento_armado-C0392B?style=for-the-badge" alt="Prevención" />
+</p>
+
+Plataforma institucional **desplegada en servidores de la Alcaldía de Popayán**. No es un demo: familias, docentes y administración ya entran por dominio `.gov.co`.
+
+Nació como piloto **SENA Fábrica de Software 2026** con el colectivo pedagógico **Parchando Juntos**. El objetivo es concreto: fortalecer el vínculo escuela–familia en el **Occidente de Popayán**, bajar deserción y **prevenir el reclutamiento armado** de niños, niñas y jóvenes con formación, tareas en casa y evidencia en el boletín escolar.
+
+Aliados: **Secretaría de Educación**, **Secretaría de Salud** y **SENA**.
+
+- Roles en una sola plataforma (familias, docentes, administradores)
+- Tareas semanales o quincenales para desarrollar en familia
+- Evidencia (fotos, textos, archivos) y calificación en el boletín
+- Confianza digital: uso institucional, claro y acompañado
+
+🌐 **[Abrir la plataforma → escuelapadres.popayan.gov.co](https://escuelapadres.popayan.gov.co)**  
+💻 [Front](https://github.com/ALexjh117/CATEDRA_FAMILIAR_FROTEND_117) · [Back](https://github.com/ALexjh117/ESCUELAPARAPADRES_BACKEND117)
 
 ---
-🗳️ SIGEVA – Sistema de Gestión de Votaciones Electrónicas
 
-Stack: React, Node.js, TypeScript, PostgreSQL, JWT
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Aplicación web diseñada para la gestión y ejecución de procesos de votación electrónica en entornos institucionales y académicos. SIGEVA permite administrar elecciones de manera segura, transparente y eficiente, optimizando el registro de votantes, la emisión de votos y la consolidación de resultados.
+### 🗳️ SIGEVA
+**Sistema de Gestión de Votaciones Electrónicas**
 
-Características:
+Elecciones institucionales con autenticación, roles, voto único y consolidación de resultados. Pensado para centros de formación: transparente, auditable y usable el día de la jornada.
 
-🔐 Autenticación segura con control de roles (administrador y votante)
+`React` `Node.js` `TypeScript` `PostgreSQL` `JWT`
 
-🗳️ Emisión de voto único por usuario con validación automática
+- Control de roles (gestión / votante)
+- Urna filtrada y emisión de voto único
+- Panel para crear y administrar elecciones
+- Reportes de participación y resultados
 
-📊 Visualización de resultados en tiempo real
+**[Back](https://github.com/ALexjh117/SigevaBack2.0)** · Senasoft 2025
 
-🛠️ Panel de administración para creación y gestión de elecciones
+    </td>
+    <td width="50%" valign="top">
 
-📁 Registro y almacenamiento estructurado de datos electorales
+### 🤖 MentorIA
+**Plataforma educativa con inteligencia artificial**
 
-📈 Reportes consolidados de participación y resultados
+Ayuda a estudiantes y profesores a personalizar el aprendizaje: chat con asistente, actividades adaptadas y un dashboard para ver el progreso de verdad, no solo “completado”.
 
-📈 Mis Principios
+`React` `Node.js` `TypeScript` `Supabase` `AWS Bedrock`
 
-Calidad y precisión en el manejo de datos
+- Chat con asistente de IA
+- Actividades según estilo de aprendizaje
+- Métricas de progreso en tiempo real
+- Dashboard de administración
 
-Seguridad como prioridad en aplicaciones críticas
+**[Repo](https://github.com/ALexjh117/MentorIA)** · **[Front](https://github.com/ALexjh117/MentorFrontend)** · **[Back](https://github.com/ALexjh117/MentorBackend)**
 
-Desarrollo orientado a escalabilidad
+    </td>
+  </tr>
+</table>
 
-Mejora continua y optimización de procesos
+**También:** [ActivSena](https://github.com/ALexjh117/ActivSenaFull) — gestión de actividades en entorno SENA.
 
-Soluciones tecnológicas con impacto institucional
+<p align="center">
+  <a href="https://github.com/ALexjh117?tab=repositories">
+    <img src="https://img.shields.io/badge/Ver_todos_los_repos-ALexjh117-7C9CFF?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
+  </a>
+</p>
 
-## 📬 Contacto
+---
 
-¿Quieres colaborar o conectarte? ¡Me encantaría escuchar de ti!
+## GitHub en movimiento
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALexjh117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALexjh117&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexjh117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALexjh117&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ALexjh117&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+</div>
+
+<!--
+  Serpiente de contribuciones (se activa cuando copies el workflow):
+  .github/workflows/snake.yml  →  rama "output"
+-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## Logros
+
+- 🏛️ **Cátedra de Familia** en producción en la Alcaldía de Popayán — [escuelapadres.popayan.gov.co](https://escuelapadres.popayan.gov.co)
+- 🛡️ Software con propósito: prevención del **reclutamiento armado** y deserción escolar (Occidente de Popayán · Parchando Juntos)
+- 🏆 Participante **Senasoft Desarrollo Integral 2025**
+- 🗳️ SIGEVA — votación electrónica de punta a punta (gestión + urna + resultados)
+- 🤖 MentorIA — IA aplicada a educación, no solo un chatbot de demo
+- 🤝 Trabajo en equipo, PRs y entregas con fecha (el tipo de presión que forma)
+
+---
+
+## Hablemos
+
+¿Idea, equipo, reto o café virtual? **Escríbeme.**
 
 <p align="center">
   <a href="mailto:alexchaguendo01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/alex-fullstack/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/tu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/ALexjh117">
+    <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -167,14 +227,12 @@ Soluciones tecnológicas con impacto institucional
 
 <div align="center">
 
-### ⚡ "La tecnología es mejor cuando une a las personas" ⚡
+### ⚡ No optimizo… perfecciono ⚡
 
-⭐️ Si te gusta mi trabajo, ¡dame una estrella!
+*Full stack. Sin etiqueta. Sin límite.*
+
+⭐ Si algo de esto te sirve, una estrella siempre se agradece.
 
 </div>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer wave" width="100%" />
