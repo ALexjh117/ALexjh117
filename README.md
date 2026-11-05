@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alex%20Chaguendo&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Popay%C3%A1n%2C%20Cauca%20%7C%20Senasoft%202025&descAlignY=54&descSize=16" alt="banner" width="100%" />
+  <img src="./assets/header.svg" alt="Alex Chaguendo, Full Stack Developer. Popayán, Cauca. Senasoft 2025." width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7C9CFF&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Alex+%F0%9F%91%8B;No+optimizo...+perfecciono;C%C3%A1tedra+de+Familia+en+producci%C3%B3n;Alcald%C3%ADa+de+Popay%C3%A1n+%C2%B7+SENA;C%C3%B3digo+contra+el+reclutamiento+armado" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7C9CFF&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Alex+%F0%9F%91%8B;No+optimizo.+Perfecciono.;Traje+negro+%C2%B7+Dragon+Ball+Z;C%C3%A1tedra+de+Familia+en+producci%C3%B3n;C%C3%B3digo+contra+el+reclutamiento+armado" alt="Hola, soy Alex. No optimizo. Perfecciono." />
   </a>
 
   <br />
@@ -18,77 +18,36 @@
     <img src="https://img.shields.io/badge/GitHub-ALexjh117-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ALexjh117&label=Profile%20views&color=7C9CFF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Marvel-Traje_negro-111111?style=for-the-badge&logo=marvel&logoColor=white" alt="Marvel, traje negro" />
+  <img src="https://img.shields.io/badge/Dragon_Ball_Z-Cuatro_estrellas-F08A12?style=for-the-badge" alt="Dragon Ball Z" />
 
 </div>
 
----
+<img src="./assets/spiderman-noir.svg" alt="Figura de traje negro balanceándose entre edificios, con telaraña y luna." width="100%" />
+
+<img src="./assets/divider-pacman.svg" alt="" width="100%" />
+
+<img src="./assets/dragonball-z.svg" alt="Esfera de cuatro estrellas, dragón de ki y ola de energía." width="100%" />
 
 ## Sobre mí
 
 **Developer full stack** de Popayán. Me gusta el código que no se queda en el tutorial: productos que alguien abre, usa y confía.
 
-Hoy estoy en **Senasoft Desarrollo Integral 2025**, construyendo software institucional con React, Node.js, TypeScript y PostgreSQL. Mi frase de perfil no es pose: *no optimizo… perfecciono*.
+Hoy estoy en **Senasoft Desarrollo Integral 2025**, construyendo software institucional con React, Node.js, TypeScript y PostgreSQL.
 
-- 🏛️ **Cátedra de Familia** — en producción en servidores de la **Alcaldía de Popayán** ([escuelapadres.popayan.gov.co](https://escuelapadres.popayan.gov.co)): escuela–familia para prevenir deserción y **reclutamiento armado** en el Occidente de la ciudad
-- 🎓 **Senasoft 2025** — desarrollo integral, equipo y entrega bajo presión
-- 🗳️ **SIGEVA** — votación electrónica con roles, urna y resultados
-- 🤖 **MentorIA** — plataforma educativa con IA (React, Node, Supabase, AWS)
+- **Cátedra de Familia** en producción en servidores de la **Alcaldía de Popayán** ([escuelapadres.popayan.gov.co](https://escuelapadres.popayan.gov.co)): escuela-familia para prevenir deserción y reclutamiento armado en el Occidente de la ciudad
+- **Senasoft 2025** desarrollo integral, equipo y entrega bajo presión
+- **SIGEVA** votación electrónica con roles, urna y resultados
+- **MentorIA** plataforma educativa con IA (React, Node, Supabase, AWS)
 
-> *“La tecnología es mejor cuando une a las personas.”*  
-> Yo le agrego otra: **si el dato importa, la seguridad no es un extra.**
-
----
-
-## Ahora mismo
-
-```js
-const alex = {
-  ubicacion: "Popayán, Cauca",
-  rol: "Full Stack Developer",
-  enfoque: ["React", "Node.js", "TypeScript", "PostgreSQL"],
-  construyendo: ["Cátedra de Familia (Alcaldía)", "SIGEVA", "MentorIA"],
-  buscando: "colaborar, competir y dejar código que se pueda mantener",
-};
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="coding animation" />
+> *La tecnología es mejor cuando une a las personas.*
+> Si el dato importa, la seguridad no es un extra.
 
 ---
 
-## Lo que me mueve
+## En producción
 
-| | |
-| :--- | :--- |
-| **Calidad > cantidad** | Prefiero un flujo bien cerrado a diez pantallas a medias. |
-| **Seguridad primero** | Auth, roles y votos únicos no se improvisan el último día. |
-| **Iterar en equipo** | El PR revisado gana al héroe solitario. |
-| **Impacto institucional** | Software en la Alcaldía, en el aula y en la urna. |
-| **Aprender en movimiento** | Senasoft, proyectos reales, stack moderno. |
-
----
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,postgres,mysql,mongodb,supabase,aws,docker,git,github,postman,py,java,cpp&theme=dark&perline=10" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
-## Proyectos que me representan
-
-### 👨‍👩‍👶 Cátedra de Familia — en producción
+### Cátedra de Familia
 
 <p>
   <a href="https://escuelapadres.popayan.gov.co">
@@ -100,7 +59,7 @@ const alex = {
 
 Plataforma institucional **desplegada en servidores de la Alcaldía de Popayán**. No es un demo: familias, docentes y administración ya entran por dominio `.gov.co`.
 
-Nació como piloto **SENA Fábrica de Software 2026** con el colectivo pedagógico **Parchando Juntos**. El objetivo es concreto: fortalecer el vínculo escuela–familia en el **Occidente de Popayán**, bajar deserción y **prevenir el reclutamiento armado** de niños, niñas y jóvenes con formación, tareas en casa y evidencia en el boletín escolar.
+Nació como piloto **SENA Fábrica de Software 2026** con el colectivo pedagógico **Parchando Juntos**. El objetivo es concreto: fortalecer el vínculo escuela-familia en el **Occidente de Popayán**, bajar deserción y **prevenir el reclutamiento armado** de niños, niñas y jóvenes con formación, tareas en casa y evidencia en el boletín escolar.
 
 Aliados: **Secretaría de Educación**, **Secretaría de Salud** y **SENA**.
 
@@ -109,8 +68,7 @@ Aliados: **Secretaría de Educación**, **Secretaría de Salud** y **SENA**.
 - Evidencia (fotos, textos, archivos) y calificación en el boletín
 - Confianza digital: uso institucional, claro y acompañado
 
-🌐 **[Abrir la plataforma → escuelapadres.popayan.gov.co](https://escuelapadres.popayan.gov.co)**  
-💻 [Front](https://github.com/ALexjh117/CATEDRA_FAMILIAR_FROTEND_117) · [Back](https://github.com/ALexjh117/ESCUELAPARAPADRES_BACKEND117)
+**[Abrir la plataforma](https://escuelapadres.popayan.gov.co)** · [Front](https://github.com/ALexjh117/CATEDRA_FAMILIAR_FROTEND_117) · [Back](https://github.com/ALexjh117/ESCUELAPARAPADRES_BACKEND117)
 
 ---
 
@@ -118,7 +76,7 @@ Aliados: **Secretaría de Educación**, **Secretaría de Salud** y **SENA**.
   <tr>
     <td width="50%" valign="top">
 
-### 🗳️ SIGEVA
+### SIGEVA
 **Sistema de Gestión de Votaciones Electrónicas**
 
 Elecciones institucionales con autenticación, roles, voto único y consolidación de resultados. Pensado para centros de formación: transparente, auditable y usable el día de la jornada.
@@ -135,7 +93,7 @@ Elecciones institucionales con autenticación, roles, voto único y consolidaci�
     </td>
     <td width="50%" valign="top">
 
-### 🤖 MentorIA
+### MentorIA
 **Plataforma educativa con inteligencia artificial**
 
 Ayuda a estudiantes y profesores a personalizar el aprendizaje: chat con asistente, actividades adaptadas y un dashboard para ver el progreso de verdad, no solo “completado”.
@@ -153,7 +111,7 @@ Ayuda a estudiantes y profesores a personalizar el aprendizaje: chat con asisten
   </tr>
 </table>
 
-**También:** [ActivSena](https://github.com/ALexjh117/ActivSenaFull) — gestión de actividades en entorno SENA.
+**También:** [ActivSena](https://github.com/ALexjh117/ActivSenaFull) (gestión de actividades en entorno SENA)
 
 <p align="center">
   <a href="https://github.com/ALexjh117?tab=repositories">
@@ -163,47 +121,95 @@ Ayuda a estudiantes y profesores a personalizar el aprendizaje: chat con asisten
 
 ---
 
-## GitHub en movimiento
+## Cómo trabajo
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALexjh117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALexjh117&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexjh117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALexjh117&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ALexjh117&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
-</div>
-
-<!--
-  Serpiente de contribuciones (se activa cuando copies el workflow):
-  .github/workflows/snake.yml  →  rama "output"
--->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+| Calidad > cantidad | Prefiero un flujo bien cerrado a diez pantallas a medias. |
+| Seguridad primero | Auth, roles y votos únicos no se improvisan el último día. |
+| Iterar en equipo | El PR revisado gana al héroe solitario. |
+| Impacto institucional | Software en la Alcaldía, en el aula y en la urna. |
+| Aprender en movimiento | Senasoft, proyectos reales, stack moderno. |
 
 ---
 
-## Logros
+## Stack
 
-- 🏛️ **Cátedra de Familia** en producción en la Alcaldía de Popayán — [escuelapadres.popayan.gov.co](https://escuelapadres.popayan.gov.co)
-- 🛡️ Software con propósito: prevención del **reclutamiento armado** y deserción escolar (Occidente de Popayán · Parchando Juntos)
-- 🏆 Participante **Senasoft Desarrollo Integral 2025**
-- 🗳️ SIGEVA — votación electrónica de punta a punta (gestión + urna + resultados)
-- 🤖 MentorIA — IA aplicada a educación, no solo un chatbot de demo
-- 🤝 Trabajo en equipo, PRs y entregas con fecha (el tipo de presión que forma)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,postgres,mysql,mongodb,supabase,aws,docker,git,github,postman,py,java,cpp&theme=dark&perline=10" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, Express, PostgreSQL, MySQL, MongoDB, Supabase, AWS, Docker, Git, GitHub, Postman, Python, Java, C++" />
+</p>
+
+---
+
+## Arcade
+
+El año de commits convertido en juego. Pac-Man se come la gráfica. Galaga le dispara. Se regeneran solos cada noche.
+
+<div align="center">
+
+### Pac-Man
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man comiendo la gráfica de contribuciones de GitHub" src="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/pacman-contribution-graph.svg" />
+</picture>
+
+### Galaga
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/galaga-contribution-graph.svg" />
+  <img alt="Galaga disparando a la gráfica de contribuciones de GitHub" src="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/galaga-contribution-graph.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary><strong>Más juegos de la gráfica</strong> (Tetris y Snake)</summary>
+<br/>
+
+**Tetris.** Las piezas caen alineadas con tus commits y limpian líneas.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/tetris-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/tetris-contribution-graph.svg" />
+  <img alt="Tetris con la gráfica de contribuciones de GitHub" src="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/tetris-contribution-graph.svg" />
+</picture>
+
+**Snake.** La serpiente crece solo con los días más intensos.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/snake-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/snake-contribution-graph.svg" />
+  <img alt="Snake comiendo la gráfica de contribuciones de GitHub" src="https://raw.githubusercontent.com/ALexjh117/ALexjh117/output/snake-contribution-graph.svg" />
+</picture>
+
+</details>
+
+<details>
+<summary>Otros juegos que se pueden activar</summary>
+<br/>
+
+El mismo Action puede generar más tableros. Solo hay que sumar el nombre en `games:` del workflow.
+
+| Juego | Qué hace con tus commits |
+| :--- | :--- |
+| **Breakout** | Una bola rompe los ladrillos de la gráfica |
+| **Bomberman** | Dos bombers vuelan celdas del calendario |
+| **Puzzle Bobble** | Un cañón explota grupos del mismo color |
+| **Minesweeper** | Un solver limpia minas sobre los días |
+
+Hechos con [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).
+
+</details>
+
+---
+
+## GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALexjh117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexjh117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="165" alt="Lenguajes más usados" />
+</div>
 
 ---
 
@@ -223,16 +229,4 @@ Ayuda a estudiantes y profesores a personalizar el aprendizaje: chat con asisten
   </a>
 </p>
 
----
-
-<div align="center">
-
-### ⚡ No optimizo… perfecciono ⚡
-
-*Full stack. Sin etiqueta. Sin límite.*
-
-⭐ Si algo de esto te sirve, una estrella siempre se agradece.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer wave" width="100%" />
+<img src="./assets/footer.svg" alt="No optimizo. Perfecciono." width="100%" />

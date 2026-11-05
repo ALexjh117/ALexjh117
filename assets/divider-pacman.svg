@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="1200" height="48" overflow="hidden" role="img" aria-label="Pac-Man divider">
+  <rect width="1200" height="48" fill="transparent"/>
+  <g fill="#F4D35E" opacity="0.9">
+    <g id="dots">
+      <circle cx="40" cy="24" r="3"/>
+      <circle cx="80" cy="24" r="3"/>
+      <circle cx="120" cy="24" r="3"/>
+      <circle cx="160" cy="24" r="3"/>
+      <circle cx="200" cy="24" r="4.4"/>
+      <circle cx="240" cy="24" r="3"/>
+      <circle cx="280" cy="24" r="3"/>
+      <circle cx="320" cy="24" r="3"/>
+      <circle cx="360" cy="24" r="3"/>
+      <circle cx="400" cy="24" r="4.4"/>
+      <circle cx="440" cy="24" r="3"/>
+      <circle cx="480" cy="24" r="3"/>
+      <circle cx="520" cy="24" r="3"/>
+      <circle cx="560" cy="24" r="3"/>
+      <circle cx="600" cy="24" r="4.4"/>
+      <circle cx="640" cy="24" r="3"/>
+      <circle cx="680" cy="24" r="3"/>
+      <circle cx="720" cy="24" r="3"/>
+      <circle cx="760" cy="24" r="3"/>
+      <circle cx="800" cy="24" r="4.4"/>
+      <circle cx="840" cy="24" r="3"/>
+      <circle cx="880" cy="24" r="3"/>
+      <circle cx="920" cy="24" r="3"/>
+      <circle cx="960" cy="24" r="3"/>
+      <circle cx="1000" cy="24" r="4.4"/>
+      <circle cx="1040" cy="24" r="3"/>
+      <circle cx="1080" cy="24" r="3"/>
+      <circle cx="1120" cy="24" r="3"/>
+      <circle cx="1160" cy="24" r="3"/>
+    </g>
+  </g>
+  <g transform="translate(70 24)">
+    <path fill="#F4D35E" d="M0,0 L12,-8 A14,14 0 1,1 12,8 Z">
+      <animate attributeName="d" dur="0.28s" repeatCount="indefinite"
+        values="M0,0 L14,0 A14,14 0 1,1 14,0.01 Z;
+                M0,0 L12,-8 A14,14 0 1,1 12,8 Z;
+                M0,0 L14,0 A14,14 0 1,1 14,0.01 Z"/>
+    </path>
+    <circle cx="3" cy="-5" r="1.5" fill="#0D1117"/>
+    <animateTransform attributeName="transform" type="translate" from="70 24" to="1230 24" dur="7.5s" repeatCount="indefinite"/>
+  </g>
+</svg>

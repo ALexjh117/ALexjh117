@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" overflow="hidden" role="img" aria-label="Esfera de cuatro estrellas y ola de ki">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B0A14"/>
+      <stop offset="50%" stop-color="#1A1020"/>
+      <stop offset="100%" stop-color="#3A1A08"/>
+    </linearGradient>
+    <radialGradient id="sunGold" cx="32%" cy="48%" r="42%">
+      <stop offset="0%" stop-color="#FFE27A" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#FF8A1A" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FF8A1A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ball" cx="35%" cy="32%" r="70%">
+      <stop offset="0%" stop-color="#FFD36A"/>
+      <stop offset="55%" stop-color="#F08A12"/>
+      <stop offset="100%" stop-color="#B84A00"/>
+    </radialGradient>
+    <linearGradient id="ki" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B9E7FF"/>
+      <stop offset="35%" stop-color="#4EA7FF"/>
+      <stop offset="100%" stop-color="#1C4CFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="aura" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#FF9A1A" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#FFE27A" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FFF6C8"/>
+    </linearGradient>
+    <clipPath id="board">
+      <rect width="1200" height="280"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#board)">
+    <rect width="1200" height="280" fill="url(#sky)"/>
+    <rect width="1200" height="280" fill="url(#sunGold)"/>
+
+    <!-- speed lines -->
+    <g stroke="#FFE27A" stroke-opacity="0.28" stroke-width="2">
+      <line x1="40" y1="40" x2="260" y2="28"/>
+      <line x1="60" y1="70" x2="300" y2="58"/>
+      <line x1="30" y1="110" x2="240" y2="96"/>
+      <line x1="900" y1="36" x2="1160" y2="22"/>
+      <line x1="860" y1="68" x2="1180" y2="50"/>
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="0.9s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- original serpent dragon, not a studio character sheet -->
+    <g fill="none" stroke="#3DDC84" stroke-width="10" stroke-linecap="round">
+      <path d="M -40 70 C 120 10, 260 130, 420 50 C 580 -20, 740 120, 920 40 C 1040 -10, 1140 80, 1240 30">
+        <animate attributeName="d" dur="4.2s" repeatCount="indefinite"
+          values="M -40 70 C 120 10, 260 130, 420 50 C 580 -20, 740 120, 920 40 C 1040 -10, 1140 80, 1240 30;
+                  M -40 50 C 120 120, 260 20, 420 80 C 580 150, 740 10, 920 70 C 1040 130, 1140 20, 1240 60;
+                  M -40 70 C 120 10, 260 130, 420 50 C 580 -20, 740 120, 920 40 C 1040 -10, 1140 80, 1240 30"/>
+      </path>
+    </g>
+    <g fill="#3DDC84">
+      <ellipse cx="132" cy="52" rx="28" ry="16"/>
+      <polygon points="108,46 92,18 122,40"/>
+      <polygon points="138,40 148,12 160,42"/>
+      <path d="M158 52 C 178 48, 188 56, 196 62" stroke="#3DDC84" stroke-width="6" fill="none" stroke-linecap="round"/>
+      <circle cx="148" cy="50" r="3" fill="#0B0A14"/>
+      <circle cx="148" cy="50" r="1.2" fill="#FFE27A"/>
+    </g>
+
+    <!-- four-star sphere -->
+    <g transform="translate(210 150)">
+      <g>
+        <circle r="58" fill="url(#ball)" stroke="#6A2200" stroke-width="3"/>
+        <circle r="58" fill="none" stroke="#FFE27A" stroke-opacity="0.45" stroke-width="2"/>
+        <g fill="#C0392B">
+          <polygon points="0,-28 4,-18 14,-18 6,-10 10,0 0,-6 -10,0 -6,-10 -14,-18 -4,-18"/>
+          <polygon points="-22,-4 -18,6 -8,6 -16,14 -12,24 -22,18 -32,24 -28,14 -36,6 -26,6"/>
+          <polygon points="22,-4 26,6 36,6 28,14 32,24 22,18 12,24 16,14 8,6 18,6"/>
+          <polygon points="0,8 4,18 14,18 6,26 10,36 0,30 -10,36 -6,26 -14,18 -4,18"/>
+        </g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+      </g>
+      <animateTransform attributeName="transform" type="translate" values="210 150; 210 142; 210 150" dur="2.2s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- gold aura (energy, not a character) -->
+    <g transform="translate(520 168)">
+      <ellipse rx="46" ry="88" fill="url(#aura)" opacity="0.85">
+        <animateTransform attributeName="transform" type="scale" values="1 1; 1.18 1.08; 1 1" dur="0.55s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse rx="70" ry="110" fill="none" stroke="#FFE27A" stroke-width="3" opacity="0.7">
+        <animate attributeName="opacity" values="0.15;0.8;0.15" dur="0.55s" repeatCount="indefinite"/>
+      </ellipse>
+      <!-- spikes of ki -->
+      <g fill="#FFE27A">
+        <polygon points="-18,-90 -8,-40 0,-96"/>
+        <polygon points="8,-98 12,-42 22,-88"/>
+        <polygon points="-4,-100 2,-46 10,-102"/>
+        <polygon points="-28,-70 -20,-20 -10,-78"/>
+        <polygon points="18,-72 24,-22 34,-80"/>
+      </g>
+    </g>
+
+    <!-- ki wave: scaleX from the caster, not width -->
+    <g transform="translate(560 148)">
+      <g>
+        <rect x="0" y="0" width="620" height="40" rx="20" fill="url(#ki)"/>
+        <rect x="0" y="10" width="620" height="12" rx="6" fill="#FFFFFF" opacity="0.45"/>
+        <animateTransform
+          attributeName="transform"
+          type="scale"
+          values="0.42 1; 1 1; 1 1; 0.42 1"
+          keyTimes="0;0.28;0.72;1"
+          dur="3.2s"
+          repeatCount="indefinite"
+          calcMode="spline"
+          keySplines="0.23 1 0.32 1; 0 0 1 1; 0.77 0 0.175 1"/>
+      </g>
+    </g>
+
+    <!-- sparks -->
+    <g fill="#FFE27A">
+      <circle cx="640" cy="120" r="3">
+        <animate attributeName="cy" values="120;40;120" dur="1.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="700" cy="200" r="2.4">
+        <animate attributeName="cy" values="200;90;200" dur="1.9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820" cy="90" r="2.8">
+        <animate attributeName="cy" values="90;30;90" dur="1.3s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="960" cy="170" r="3.2">
+        <animate attributeName="cy" values="170;70;170" dur="1.7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>
