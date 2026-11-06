@@ -6,20 +6,20 @@
       <stop offset="100%" stop-color="#0D1117"/>
     </linearGradient>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7C9CFF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#7C9CFF" stop-opacity="0.7"/>
-      <stop offset="100%" stop-color="#7C9CFF" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#9AD7FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#9AD7FF" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#9AD7FF" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="orb" cx="18%" cy="28%" r="46%">
-      <stop offset="0%" stop-color="#7C9CFF" stop-opacity="0.24"/>
-      <stop offset="100%" stop-color="#7C9CFF" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#9AD7FF" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#9AD7FF" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <rect width="1200" height="220" fill="url(#ground)"/>
   <rect width="1200" height="220" fill="url(#orb)"/>
 
-  <g fill="#7C9CFF" opacity="0.14">
+  <g fill="#9AD7FF" opacity="0.14">
     <g id="row">
       <rect x="28" y="22" width="9" height="9" rx="2"/>
       <rect x="42" y="22" width="9" height="9" rx="2" opacity="0.4"/>

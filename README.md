@@ -3,7 +3,7 @@
   <img src="./assets/header.svg" alt="Alex Chaguendo, Full Stack Developer. Popayán, Cauca. Senasoft 2025." width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7C9CFF&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Alex+%F0%9F%91%8B;No+optimizo.+Perfecciono.;Traje+negro+%C2%B7+Dragon+Ball+Z;C%C3%A1tedra+de+Familia+en+producci%C3%B3n;C%C3%B3digo+contra+el+reclutamiento+armado" alt="Hola, soy Alex. No optimizo. Perfecciono." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9AD7FF&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Alex+%F0%9F%91%8B;No+optimizo.+Perfecciono.;Ultra+Instinto.+El+ki+sale+azul.;Simbionte%2C+murci%C3%A9lago%2C+traje+negro;C%C3%A1tedra+de+Familia+en+producci%C3%B3n" alt="Hola, soy Alex. Ultra Instinto. El ki sale azul." />
   </a>
 
   <br />
@@ -17,17 +17,21 @@
   <a href="https://github.com/ALexjh117">
     <img src="https://img.shields.io/badge/GitHub-ALexjh117-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ALexjh117&label=Profile%20views&color=7C9CFF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Marvel-Traje_negro-111111?style=for-the-badge&logo=marvel&logoColor=white" alt="Marvel, traje negro" />
-  <img src="https://img.shields.io/badge/Dragon_Ball_Z-Cuatro_estrellas-F08A12?style=for-the-badge" alt="Dragon Ball Z" />
+  <img src="https://komarev.com/ghpvc/?username=ALexjh117&label=Profile%20views&color=9AD7FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Simbionte-Noche-0B1C30?style=for-the-badge" alt="Simbionte" />
+  <img src="https://img.shields.io/badge/Murcielago-Senal-F5C451?style=for-the-badge" alt="Murcielago" />
+  <img src="https://img.shields.io/badge/Ultra_Instinto-Ki_azul-3D7BFF?style=for-the-badge" alt="Ultra Instinto" />
 
 </div>
 
-<img src="./assets/spiderman-noir.svg" alt="Figura de traje negro balanceándose entre edificios, con telaraña y luna." width="100%" />
+<p align="center">
+  <img src="./assets/venom.jpg" width="420" alt="Venom, el simbionte" />
+  <img src="./assets/goku-ultra-instinto.jpg" width="312" alt="Goku Ultra Instinto, con el ki azul" />
+</p>
 
-<img src="./assets/divider-pacman.svg" alt="" width="100%" />
-
-<img src="./assets/dragonball-z.svg" alt="Esfera de cuatro estrellas, dragón de ki y ola de energía." width="100%" />
+<p align="center">
+  <strong>Simbionte</strong> en la noche · <strong>Ultra Instinto</strong> cuando el ki sale azul
+</p>
 
 ## Sobre mí
 
@@ -115,7 +119,7 @@ Ayuda a estudiantes y profesores a personalizar el aprendizaje: chat con asisten
 
 <p align="center">
   <a href="https://github.com/ALexjh117?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_todos_los_repos-ALexjh117-7C9CFF?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
+    <img src="https://img.shields.io/badge/Ver_todos_los_repos-ALexjh117-3D7BFF?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
   </a>
 </p>
 
@@ -142,6 +146,8 @@ Ayuda a estudiantes y profesores a personalizar el aprendizaje: chat con asisten
 ## Arcade
 
 El año de commits convertido en juego. Pac-Man se come la gráfica. Galaga le dispara. Se regeneran solos cada noche.
+
+<img src="./assets/divider-pacman.svg" alt="" width="100%" />
 
 <div align="center">
 
@@ -207,8 +213,8 @@ Hechos con [pacman-contribution-graph](https://github.com/abozanona/pacman-contr
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALexjh117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" height="165" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexjh117&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="165" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALexjh117&show_icons=true&hide_border=true&bg_color=07060E&title_color=9AD7FF&icon_color=A78BFA&text_color=E8EEF9&count_private=true&include_all_commits=true" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALexjh117&layout=compact&hide_border=true&bg_color=07060E&title_color=9AD7FF&text_color=E8EEF9&langs_count=8" height="165" alt="Lenguajes más usados" />
 </div>
 
 ---
