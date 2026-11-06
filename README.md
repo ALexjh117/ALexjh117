@@ -24,14 +24,7 @@
 
 </div>
 
-<p align="center">
-  <img src="./assets/venom.jpg" width="420" alt="Venom, el simbionte" />
-  <img src="./assets/goku-ultra-instinto.jpg" width="312" alt="Goku Ultra Instinto, con el ki azul" />
-</p>
-
-<p align="center">
-  <strong>Simbionte</strong> en la noche · <strong>Ultra Instinto</strong> cuando el ki sale azul
-</p>
+<img src="./assets/ultra-instinto.gif" width="100%" alt="Simbionte, Goku en Ultra Instinto y el murciélago. Alex: Ultra Instinto de desarrollo." />
 
 ## Sobre mí
 
