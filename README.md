@@ -24,7 +24,39 @@
 
 </div>
 
-<img src="./assets/ultra-instinto.gif" width="100%" alt="Simbionte, Goku en Ultra Instinto y el murciélago. Alex: Ultra Instinto de desarrollo." />
+<table>
+  <tr>
+    <td width="48%" valign="middle">
+      <img src="./assets/goku.gif" width="100%" alt="Goku en Ultra Instinto" />
+    </td>
+    <td width="52%" valign="middle">
+      <h3>Ultra Instinto</h3>
+      El pelo plateado es el modo en el que el software deja de ser un ensayo.
+      <br/><br/>
+      React, Node, TypeScript y PostgreSQL. <strong>Cátedra de Familia</strong> ya corre en la Alcaldía de Popayán.
+      <br/><br/>
+      <strong>No optimizo. Perfecciono.</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="48%" valign="middle">
+      <img src="./assets/venom.gif" width="100%" alt="Simbionte bajo la luna" />
+    </td>
+    <td width="52%" valign="middle">
+      <h3>Simbionte</h3>
+      El traje se pega al problema. Auth, roles y datos también: el producto se queda con quien lo usa.
+    </td>
+  </tr>
+  <tr>
+    <td width="48%" valign="middle">
+      <img src="./assets/batman.jpg" width="280" alt="Murciélago en la noche" />
+    </td>
+    <td width="52%" valign="middle">
+      <h3>Murciélago</h3>
+      La noche no improvisa. Un flujo cerrado, con roles y seguridad, tampoco.
+    </td>
+  </tr>
+</table>
 
 ## Sobre mí
 
