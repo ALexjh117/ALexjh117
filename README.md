@@ -3,7 +3,7 @@
   <img src="./assets/header.svg" alt="Alex Chaguendo, Full Stack Developer. Popayán, Cauca. Senasoft 2025." width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9AD7FF&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Alex+%F0%9F%91%8B;No+optimizo.+Perfecciono.;Ultra+Instinto.+El+ki+sale+azul.;Simbionte%2C+murci%C3%A9lago%2C+traje+negro;C%C3%A1tedra+de+Familia+en+producci%C3%B3n" alt="Hola, soy Alex. Ultra Instinto. El ki sale azul." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=9AD7FF&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Alex+%F0%9F%91%8B;No+optimizo.+Perfecciono.;Ultra+Instinto+Prime;Simbionte+de+software;Alex%2C+full+stack+developer" alt="Alex, full stack developer. Ultra Instinto Prime." />
   </a>
 
   <br />
@@ -18,20 +18,20 @@
     <img src="https://img.shields.io/badge/GitHub-ALexjh117-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ALexjh117&label=Profile%20views&color=9AD7FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Simbionte-Noche-0B1C30?style=for-the-badge" alt="Simbionte" />
-  <img src="https://img.shields.io/badge/Murcielago-Senal-F5C451?style=for-the-badge" alt="Murcielago" />
-  <img src="https://img.shields.io/badge/Ultra_Instinto-Ki_azul-3D7BFF?style=for-the-badge" alt="Ultra Instinto" />
+  <img src="https://img.shields.io/badge/Ultra_Instinto_Prime-Alex-3D7BFF?style=for-the-badge" alt="Ultra Instinto Prime" />
+  <img src="https://img.shields.io/badge/Simbionte_de_software-Full_stack-0B1C30?style=for-the-badge" alt="Simbionte de software" />
+  <img src="https://img.shields.io/badge/Alex-Full_stack_developer-9AD7FF?style=for-the-badge" alt="Alex, full stack developer" />
 
 </div>
 
 <table>
   <tr>
     <td width="48%" valign="middle">
-      <img src="./assets/goku.gif" width="100%" alt="Goku en Ultra Instinto" />
+      <img src="./assets/goku.gif" width="100%" alt="Ultra Instinto Prime" />
     </td>
     <td width="52%" valign="middle">
-      <h3>Ultra Instinto</h3>
-      El pelo plateado es el modo en el que el software deja de ser un ensayo.
+      <h3>Ultra Instinto Prime</h3>
+      Alex, full stack developer. El modo en el que el software deja de ser un ensayo.
       <br/><br/>
       React, Node, TypeScript y PostgreSQL. <strong>Cátedra de Familia</strong> ya corre en la Alcaldía de Popayán.
       <br/><br/>
@@ -40,20 +40,20 @@
   </tr>
   <tr>
     <td width="48%" valign="middle">
-      <img src="./assets/venom.gif" width="100%" alt="Simbionte bajo la luna" />
+      <img src="./assets/venom.gif" width="100%" alt="Simbionte de software" />
     </td>
     <td width="52%" valign="middle">
-      <h3>Simbionte</h3>
-      El traje se pega al problema. Auth, roles y datos también: el producto se queda con quien lo usa.
+      <h3>Simbionte de software</h3>
+      Auth, roles y datos pegados al producto. Se queda con quien lo usa.
     </td>
   </tr>
   <tr>
     <td width="48%" valign="middle">
-      <img src="./assets/batman.jpg" width="280" alt="Murciélago en la noche" />
+      <img src="./assets/batman.jpg" width="280" alt="Alex, full stack developer" />
     </td>
     <td width="52%" valign="middle">
-      <h3>Murciélago</h3>
-      La noche no improvisa. Un flujo cerrado, con roles y seguridad, tampoco.
+      <h3>Alex, full stack developer</h3>
+      Flujo cerrado, roles y seguridad. En producción, no en el ensayo.
     </td>
   </tr>
 </table>
